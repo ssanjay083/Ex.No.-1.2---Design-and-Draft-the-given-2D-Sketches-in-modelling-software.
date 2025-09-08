@@ -33,7 +33,8 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+![exp 1 2_page-0001 (2)](https://github.com/user-attachments/assets/cfb3d88c-c096-4276-a4ca-79a513981060)
+
 
  ## OUTPUT
 ![exp 1 2_page-0001 (1)](https://github.com/user-attachments/assets/24cfd735-605c-4a4a-b0e6-bfac67f79c21)
